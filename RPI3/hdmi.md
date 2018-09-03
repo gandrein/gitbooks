@@ -9,7 +9,7 @@ Use
 
 Most likely what will happen is that the TV/Screen won't display anything when switched on via the last command above and needs refreshed.
 
-According to this forum [link](https://www.raspberrypi.org/forums/viewtopic.php?t=52309)\)
+According to this forum [link](https://www.raspberrypi.org/forums/viewtopic.php?t=52309).
 
 > When changing the resolution of the framebuffer device \(console\), you can use the fbset command to force a refresh of the screen and to change resolution. First do a dummy sudo fbset -depth 8 to make it realise something has changed, then sudo fbset -g X Y X Y D where X and Y are the resolution of your screen, and D is the bits-per-pixel value you are using \(probably 16 unless you have changed it\).
 
