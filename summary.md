@@ -8,6 +8,7 @@
 * [RaspberryPi Stuff](RPI3/README.md)
     * [Changing HDMI Resolution](RPI3/hdmi.md)
     * [Boot/config](RPI3/boot_config.md)
+    * [NAS](RPI3/nas.md)
     
 ## Coding
 ​
